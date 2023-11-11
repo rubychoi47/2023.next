@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": ".최유정",
+    "id":"202300000",
+    "address":"abcdefg12@ajou.ac.kr",
+    "major":"소프트웨어학과",
+    "number":"00000000000(휴대폰)"
+  },
+  "courses":[
+    {
+      "id":1,
+      "code":"BIO111",
+      "name":"생명과학",
+      "courseId":"X595-2",
+      "professorName":"이영만"
+    },
+    {
+      "id":2,
+      "code":"SCE104",
+      "name":"인공지능입문",
+      "courseId":"F047-4",
+      "professorName":"강경란"
+    },
+    {
+      "id":3,
+      "code":"MATH103",
+      "name":"수학2",
+      "courseId":"X313-32",
+      "professorName":"박상웅"
+    },{
+      "id":4,
+      "code":"SCE112",
+      "name":"Digital Circuit",
+      "courseId":"F071-4",
+      "professorName":"Paul Rajib"
+    },{
+      "id":5,
+      "code":"SCE141",
+      "name":"이산수학",
+      "courseId":"F051-1",
+      "professorName":"고영은"
+    },{
+      "id":6,
+      "code":"SCE205",
+      "name":"자료구조",
+      "courseId":"F014-1",
+      "professorName":"유재희"
+    }
+  ]
+}
